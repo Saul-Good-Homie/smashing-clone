@@ -143,6 +143,7 @@ a:hover {
   height: 150px;
   padding: 10px;
   background-color: #888888;
+  font-family: "Roboto Mono", monospace;
   font-weight: 500;
   font-size: 30px;
   line-height: 30px;
@@ -153,6 +154,7 @@ a:hover {
   height: 150px;
   padding: 10px;
   background-color: #888888;
+  font-family: "Roboto Mono", monospace;
   font-weight: 500;
   font-size: 30px;
   line-height: 30px;
