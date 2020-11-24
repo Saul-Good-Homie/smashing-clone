@@ -1,4 +1,4 @@
-In this project, I am attempting to recreate an article from the New York Times. This project will primarily practice using CSS Grid and Flexbox.
+In this project, I am creating a greyscale visual hierarchy of the Smashing.com home page and importing google fonts. This project is a practice in design elements and typography.
 
 CSS Project from [The Odin Project](https://www.theodinproject.com/courses/html-and-css/lessons/design-teardown)
 
